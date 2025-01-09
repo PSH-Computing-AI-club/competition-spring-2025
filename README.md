@@ -49,3 +49,13 @@ Looking for how to script your AI player? Go [here](./ai-player-scripting.md).
 Every competitor is supplied with a starter git repository containing three sample AI players to serve as a springboard for getting started.
 
 After the initial competition briefing an API reference will be available at [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes).
+
+## Related Repositories
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-bracket`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-bracket)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript)
+
+- [`github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-typescript`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-typescript)
