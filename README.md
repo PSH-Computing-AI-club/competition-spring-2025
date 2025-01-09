@@ -14,7 +14,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :bust_in_silhouette: / :busts_in_silhouette: Pair up with a partner or go solo.
 
-:1st_place_medal: / :2nd_place_medal: / :3rd_place_medal: Prizes are handed out for best AI players in final tournament bracket.
+:1st_place_medal: / :2nd_place_medal: / :3rd_place_medal: Prizes are handed out for best AI players in the final tournament bracket.
 
 ## Dates
 
