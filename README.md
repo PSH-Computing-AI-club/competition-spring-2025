@@ -4,11 +4,11 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :technologist: Code an AI player for a Dots and Boxes game engine using JavaScript or TypeScript.
 
-:outbox_tray: Submissions are made via git repositories on GitHub.
-
 :calendar: Automated knock-out practice tournament brackets every day.
 
 :clock4: No physical time commitment as it's all online and asynchronous.
+
+:outbox_tray: Submissions are made via git repositories on GitHub.
 
 :pencil: SIGN UP in the `#CHANNEL-NAME` channel on the club's Discord!
 
