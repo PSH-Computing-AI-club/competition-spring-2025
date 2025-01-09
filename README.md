@@ -4,7 +4,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :technologist: Code an AI player for a Dots and Boxes game engine using JavaScript or TypeScript.
 
-:calendar: Automated knock-out practice tournament brackets are held every day.
+:calendar: Automated knock-out practice tournament brackets are held multiple times every day.
 
 :trophy: A final knock-out tournament bracket is held to determine the finals winners.
 
