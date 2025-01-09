@@ -1,0 +1,23 @@
+{
+    "deno.enable": true,
+
+    "[json]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+
+    "[jsonc]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+
+    "[yaml]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    }
+}

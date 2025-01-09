@@ -1,0 +1,16 @@
+{
+    "fmt": {
+        "include": ["./"],
+
+        "useTabs": false,
+        "lineWidth": 80,
+        "indentWidth": 4,
+        "singleQuote": true,
+        "proseWrap": "preserve"
+    },
+
+    "tasks": {
+        "check:format": "deno fmt --check ./",
+        "format": "deno fmt ./"
+    }
+}
