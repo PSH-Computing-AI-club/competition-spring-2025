@@ -10,7 +10,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :clock4: No physical time commitment as it's all online and asynchronous.
 
-:pencil: SIGN UP in the `#CHANNEL-NAME` on the club's Discord!
+:pencil: SIGN UP in the `#CHANNEL-NAME` channel on the club's Discord!
 
 :bust_in_silhouette: / :busts_in_silhouette: Pair up with a partner or go solo.
 
