@@ -6,6 +6,10 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :calendar: Automated knock-out practice tournament brackets every day.
 
+:trophy: A final knock-out tournament bracket is held to determine the finals winners.
+
+:1st_place_medal: / :2nd_place_medal: / :3rd_place_medal: Prizes are handed out for the best AI players in the final tournament bracket.
+
 :clock4: No physical in-person time commitment as it's all online and asynchronous.
 
 :outbox_tray: Submissions are made via git repositories on GitHub.
@@ -13,8 +17,6 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 :pencil: SIGN UP in the `#CHANNEL-NAME` channel on the club's Discord!
 
 :bust_in_silhouette: / :busts_in_silhouette: Pair up with a partner or go solo.
-
-:1st_place_medal: / :2nd_place_medal: / :3rd_place_medal: Prizes are handed out for the best AI players in the final tournament bracket.
 
 ## Dates
 
