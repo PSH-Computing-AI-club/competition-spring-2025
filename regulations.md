@@ -42,6 +42,10 @@
 
 ...
 
+### Which files do I submit for my player?
+
+...
+
 ### How many players can I submit for the competition?
 
 ...
