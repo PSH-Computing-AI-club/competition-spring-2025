@@ -38,7 +38,7 @@ No, that was out of scope for the software.
 
 ### How do I configure my IDE for the competition software's runtime?
 
-Make sure that the supplied `jsconfig.json` (or `tsconfig.json`, if using TypeScript) file in the root of your workspace. Then also make sure that `lib.stdlib.d.ts` and `lib.dotsandboxes.d.ts` exist in your workspace root as well.
+Make sure that the supplied `jsconfig.json` (or `tsconfig.json`, if using TypeScript) file in the root of your workspace. Then also make sure that the `lib.stdlib.d.ts` and `lib.dotsandboxes.d.ts` files exist in your workspace root as well.
 
 These files tell your IDE what types, globals, and language support is available in the runtime.
 
