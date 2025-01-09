@@ -24,7 +24,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 - Practice Tournament Brackets: SOMEday, XXth - OTHERday, YYth
 
-- Practice Bracket Shutoff: SOMEday, XXth
+- Practice Brackets Shutoff: SOMEday, XXth
 
 - Final Tournament Bracket @ Club Meeting: OTHERday, YYth
 
@@ -33,6 +33,10 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 During the practice tournament brackets timeframe an automated system will pull in your code every day, six times a day. Your AI player will compete against every other competitor's AI player without input from you.
 
 When the practice brackets go live you will be able to find the published results at [`PSH-Computing-AI-club.github.io/competition-spring-2025-bracket`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-bracket).
+
+## Final Tournament Bracket
+
+The final tournament bracket's results will be announced at the club meeting following the practice tournament brackets shutoff. Your code will be pulled one final time during the day of the corresponding club meeting.
 
 ## FAQs
 
