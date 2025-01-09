@@ -14,6 +14,10 @@
 
 ...
 
+### What happens if I make an illegal move?
+
+...
+
 ### How is it determined who goes first?
 
 ...
