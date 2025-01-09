@@ -6,7 +6,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :calendar: Automated knock-out practice tournament brackets every day.
 
-:clock4: No physical time commitment as it's all online and asynchronous.
+:clock4: No physical in-person time commitment as it's all online and asynchronous.
 
 :outbox_tray: Submissions are made via git repositories on GitHub.
 
