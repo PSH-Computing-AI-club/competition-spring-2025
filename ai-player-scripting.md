@@ -1,8 +1,8 @@
-# AI Player Scripting
+# :technologist: AI Player Scripting
 
 ...
 
-## Programming Environment
+## :hammer_and_wrench: Programming Environment
 
 ...
 
@@ -18,7 +18,7 @@
 
 ...
 
-## Documentation
+## :books: Documentation
 
 ...
 
@@ -34,7 +34,7 @@
 
 ...
 
-## Programming Your Player
+## :writing_hand: Programming Your Player
 
 ...
 

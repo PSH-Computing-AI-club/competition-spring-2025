@@ -1,8 +1,8 @@
-# Regulations
+# 🚫 Regulations
 
 ...
 
-## Game
+## :game_die: Game
 
 ...
 
@@ -30,7 +30,7 @@
 
 ...
 
-## Code Submission
+## :outbox_tray: Code Submission
 
 ...
 
@@ -46,7 +46,7 @@
 
 ...
 
-## Consulting External Sources
+## :speaking_head: Consulting External Sources
 
 ...
 
@@ -66,7 +66,7 @@
 
 ...
 
-## Competition Organization
+## :crossed_swords: Competition Organization
 
 ...
 

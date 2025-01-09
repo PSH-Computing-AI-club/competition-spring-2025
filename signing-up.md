@@ -1,4 +1,4 @@
-# Signing Up
+# :pencil: Signing Up
 
 ...
 
