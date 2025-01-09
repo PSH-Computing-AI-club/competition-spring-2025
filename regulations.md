@@ -74,6 +74,10 @@
 
 ...
 
+### What happens if there are not enough competitors?
+
+...
+
 ### When are the practice brackets ran?
 
 ...
