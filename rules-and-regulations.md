@@ -32,7 +32,7 @@ The initial selection of who goes first in a matchup will be determined through 
 
 ### 1.7. What happens if I make an illegal move?
 
-Your AI player will forfeit that specific match.
+Your AI player will forfeit that specific game in a match.
 
 ## :outbox_tray: 2. Code Submission
 
