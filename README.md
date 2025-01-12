@@ -44,7 +44,7 @@ The final tournament bracket's results will be announced at the club meeting fol
 
 Looking for more information on signing up? Go [here](./signing-up.md).
 
-Looking for the rules and regulations of the competition? Go [here](./regulations.md).
+Looking for the rules and regulations of the competition? Go [here](./rules-and-regulations.md).
 
 Looking for the basics on git? Go [here](./git-repositories.md).
 
