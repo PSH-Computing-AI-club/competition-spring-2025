@@ -23,26 +23,28 @@ Consult this FAQ for help with scripting your player and setting up your program
     - [3.3. How do I forfeit a game session?](#33-how-do-i-forfeit-a-game-session)
     - [3.4. Should I always have a return value?](#34-should-i-always-have-a-return-value)
     - [3.5. How do I run and test my player?](#35-how-do-i-run-and-test-my-player)
-    - [3.6. How do I implement strategies?](#36-how-do-i-implement-strategies)
-    - [3.7. Each run of the competition software is random. How can I prevent this?](#37-each-run-of-the-competition-software-is-random-how-can-i-prevent-this)
-    - [3.8. Can I change the grid size of the game board?](#38-can-i-change-the-grid-size-of-the-game-board)
-    - [3.9. How do I import code files?](#39-how-do-i-import-code-files)
-    - [3.10. How can I find out if my player has a parsing error?](#310-how-can-i-find-out-if-my-player-has-a-parsing-error)
-    - [3.11. How can I find out if my player throws a runtime error?](#311-how-can-i-find-out-if-my-player-throws-a-runtime-error)
+    - [3.6. Do I need an internet connection to run the competition software?](#36-do-i-need-an-internet-connection-to-run-the-competition-software)
+    - [3.7. How do I implement strategies?](#37-how-do-i-implement-strategies)
+    - [3.8. Each run of the competition software is random. How can I prevent this?](#38-each-run-of-the-competition-software-is-random-how-can-i-prevent-this)
+    - [3.9. Can I change the grid size of the game board?](#39-can-i-change-the-grid-size-of-the-game-board)
+    - [3.10. How do I import code files?](#310-how-do-i-import-code-files)
+    - [3.11. How can I find out if my player has a parsing error?](#311-how-can-i-find-out-if-my-player-has-a-parsing-error)
+    - [3.12. How can I find out if my player throws a runtime error?](#312-how-can-i-find-out-if-my-player-throws-a-runtime-error)
+    - [3.13. Will I be given error logs when the competition software runs my code?](#313-will-i-be-given-error-logs-when-the-competition-software-runs-my-code)
 
-## 1. <a name='hammer_and_wrench:ProgrammingEnvironment'></a>:hammer_and_wrench: Programming Environment
+## 1. :hammer_and_wrench: Programming Environment
 
 Consult this section for setting up your programming environment.
 
-### 1.1. <a name='WhatprogramminglanguagedoIscriptmyplayerin'></a>What programming language do I script my player in?
+### 1.1. What programming language do I script my player in?
 
 When you sign up you are given a choice between [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [TypeScript](https://www.typescriptlang.org).
 
-### 1.2. <a name='Whichprogramminglanguageisabetterchoiceforme'></a>Which programming language is a better choice for me?
+### 1.2. Which programming language is a better choice for me?
 
 If you're rather new to programming or prefer to program without types, choose JavaScript. If you prefer to have your code typed for better error detection, choose TypeScript.
 
-### 1.3. <a name='WhatIDE_IntegratedDevelopmentEnvironment_doIuse'></a>What IDE _(Integrated Development Environment)_ do I use?
+### 1.3. What IDE _(Integrated Development Environment)_ do I use?
 
 Any IDE that supports JavaScript or TypeScript is perfectly acceptable to use.
 
@@ -60,11 +62,11 @@ Sample IDEs:
 
 - [Zed](https://zed.dev)
 
-### 1.4. <a name='DoesthecompetitionsoftwaresruntimesupportIDEdebuggers'></a>Does the competition software's runtime support IDE debuggers?
+### 1.4. Does the competition software's runtime support IDE debuggers?
 
 No, that was out of scope for the software.
 
-### 1.5. <a name='HowdoIconfiguremyIDEforthecompetitionsoftwaresruntime'></a>How do I configure my IDE for the competition software's runtime?
+### 1.5. How do I configure my IDE for the competition software's runtime?
 
 Make sure that the supplied `jsconfig.json` (or `tsconfig.json`, if using TypeScript) file in the root of your workspace. Then also make sure that the `lib.stdlib.d.ts` and `lib.dotsandboxes.d.ts` files exist in your workspace root as well.
 
@@ -72,7 +74,7 @@ These files tell your IDE what types, globals, and language support is available
 
 > **TODO:** Pictures here showing a JavaScript and TypeScript root directory.
 
-### 1.6. <a name='DoIhavetouseanIDE'></a>Do I have to use an IDE?
+### 1.6. Do I have to use an IDE?
 
 No, any text editor is fine. When you use an IDE you get nice features like variable completions and real-time type checking.
 
@@ -88,7 +90,7 @@ Sample Text Editors:
 
 - [Windows Notepad](https://en.wikipedia.org/wiki/Windows_Notepad)
 
-### 1.7. <a name='WhattexteditorsshouldIavoidifany'></a>What text editors should I avoid, if any?
+### 1.7. What text editors should I avoid, if any?
 
 Any text editor that supports rich text will mangle your source code.
 
@@ -106,11 +108,11 @@ Sample Rich Text Editors:
 
 - [Windows Wordpad](https://en.wikipedia.org/wiki/WordPad)
 
-### 1.8. <a name='Whatoperatingsystemsaresupportedbythecompetitionsoftwaresruntime'></a>What operating systems are supported by the competition software's runtime?
+### 1.8. What operating systems are supported by the competition software's runtime?
 
 Linux, macOS, and Windows are all supported.
 
-### 1.9. <a name='HowdoIdownloadthecompetitionsoftwaresruntime'></a>How do I download the competition software's runtime?
+### 1.9. How do I download the competition software's runtime?
 
 Head over to [github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes/releases](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes/releases) and download the latest CLI binary that matches your operating system.
 
@@ -118,31 +120,31 @@ Download the binary to the root of your workspace.
 
 > **TODO:** Video of doing just that and bypassing Microsoft Edge's filters.
 
-## 2. <a name='books:Documentation'></a>:books: Documentation
+## 2. :books: Documentation
 
 Consult this section for learning material regarding programming and the competition software's runtime.
 
-### 2.1. <a name='WhatresourcesarethereforJavaScript'></a>What resources are there for JavaScript?
+### 2.1. What resources are there for JavaScript?
 
 Generally, the Internet, Reddit, YouTube, and so on have a plethora of resources available to help you learn JavaScript. Please consult those.
 
 I highly recommend the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript), or MDN. It contains high quality guides and reference material for the JavaScript standard. Also known as ECMAScript.
 
-### 2.2. <a name='WhatresourcesarethereforTypeScript'></a>What resources are there for TypeScript?
+### 2.2. What resources are there for TypeScript?
 
 Like above with JavaScript please consult the wider Internet.
 
 I highly recommend the [official TypeScript Documentation](https://www.typescriptlang.org/docs). It contains high quality guides and reference material.
 
-### 2.3. <a name='WherecanIfindthecompetitionsoftwaresruntimeAPIdocumentation'></a>Where can I find the competition software's runtime API documentation?
+### 2.3. Where can I find the competition software's runtime API documentation?
 
 The API documentation for the runtime can be found at [`psh-computing-ai-club.github.io/competition-spring-2025-dotsandboxes`](https://psh-computing-ai-club.github.io/competition-spring-2025-dotsandboxes).
 
-## 3. <a name='writing_hand:ProgrammingYourPlayer'></a>:writing_hand: Programming Your Player
+## 3. :writing_hand: Programming Your Player
 
 Consult this section for programming your player.
 
-### 3.1. <a name='HowdoIgetstartedwithscriptingmyplayer'></a>How do I get started with scripting my player?
+### 3.1. How do I get started with scripting my player?
 
 After cloning your supplied git repository, open the root workspace directory in your preferred editor.
 
@@ -158,21 +160,21 @@ As you can see, there is an [arrow function](https://developer.mozilla.org/en-US
 
 You program the AI logic of your player here.
 
-### 3.2. <a name='HowdoImakeamove'></a>How do I make a move?
+### 3.2. How do I make a move?
 
 Simply return an [`object`](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics) with `.x` and `.y` coordinate fields.
 
 > **TODO:** VS Code programming a simple object.
 
-### 3.3. <a name='HowdoIforfeitagamesession'></a>How do I forfeit a game session?
+### 3.3. How do I forfeit a game session?
 
 Simply return a [`null`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/null) value.
 
-### 3.4. <a name='ShouldIalwayshaveareturnvalue'></a>Should I always have a return value?
+### 3.4. Should I always have a return value?
 
 Yes! If the logic you wrote for your compute function cannot find a valid move, then return a `null` value.
 
-### 3.5. <a name='HowdoIrunandtestmyplayer'></a>How do I run and test my player?
+### 3.5. How do I run and test my player?
 
 > **NOTE:** Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
 
@@ -184,11 +186,15 @@ This will pit your AI player versus the supplied sample random player.
 
 > **TODO:** Video of this.
 
-### 3.6. <a name='HowdoIimplementstrategies'></a>How do I implement strategies?
+### 3.6. Do I need an internet connection to run the competition software?
+
+Yes, for the first run only. The competition software uses the [`denoland/deno_emit`](https://github.com/denoland/deno_emit) library is used to prepare your JavaScript and TypeScript code for running in the scripting runtime. It is a bundling and transpilation library made in [Rust](https://www.rust-lang.org) compiled to [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly). Unfortunately, the library does not ship with its WASM payload and downloads it on first one. Our apologies if this is inconvenient for you.
+
+### 3.7. How do I implement strategies?
 
 That is entirely up to you. The competition software's runtime provides a plethora of APIs for you to utilize. Check out the supplied sample `strategic_player.js` (or `strategic_player.ts`, if using TypeScript) for a sample implementation.
 
-### 3.7. <a name='Eachrunofthecompetitionsoftwareisrandom.HowcanIpreventthis'></a>Each run of the competition software is random. How can I prevent this?
+### 3.8. Each run of the competition software is random. How can I prevent this?
 
 > **NOTE:** Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
 
@@ -198,7 +204,7 @@ By default, the competition software uses the amount of milliseconds since the [
 
 It is very **IMPORTANT** to understand that you _will not_ control the seed during the practice nor final tournament brackets.
 
-### 3.8. <a name='CanIchangethegridsizeofthegameboard'></a>Can I change the grid size of the game board?
+### 3.9. Can I change the grid size of the game board?
 
 By default, the competition software uses 5 columns and 3 rows as the grid size. If you want to change this, then simply supply the `--grid-columns` and `--grid-rows` options respectively like so: `./dotsandboxes-linux simulate --grid-columns {COLUMNS} --grid-rows {ROWS} ...players...`.
 
@@ -206,18 +212,24 @@ By default, the competition software uses 5 columns and 3 rows as the grid size.
 
 It is very **IMPORTANT** to understand that you _will not_ control the grid size during the practice nor final tournament brackets.
 
-### 3.9. <a name='HowdoIimportcodefiles'></a>How do I import code files?
+### 3.10. How do I import code files?
 
 Simply use the [import declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) at the top of your player file and [export declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) in the imported file. Check out the supplied sample `strategic_player.js` (or `strategic_player.ts`, if using TypeScript) and `common.js` (or `common.ts`, if using TypeScript) for a sample implementation.
 
-### 3.10. <a name='HowcanIfindoutifmyplayerhasaparsingerror'></a>How can I find out if my player has a parsing error?
+### 3.11. How can I find out if my player has a parsing error?
 
 Currently, due to limitations, the competition software **DOES** output syntax errors but with unhelpful stack traces.
 
 It is recommended to use an IDE or a separate analysis tool to help find syntax errors.
 
-### 3.11. <a name='HowcanIfindoutifmyplayerthrowsaruntimeerror'></a>How can I find out if my player throws a runtime error?
+### 3.12. How can I find out if my player throws a runtime error?
 
 Anytime your player has a runtime error due to logic or reference bugs a full stack trace will be printed to console.
 
 **TODO:** Show a video of this.
+
+### 3.13. Will I be given error logs when the competition software runs my code?
+
+Due to time constraints, the competition software's tournament bracket landing page will not report error logs.
+
+However, the raw JSON logs will be available for download upon request. Please contact a competition organizer for more information.
