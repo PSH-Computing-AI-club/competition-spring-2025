@@ -12,7 +12,7 @@ Consult this section to learn about the game your AI player will be playing.
 
 ### 1.2. How is it played?
 
-Players take turns drawing lines between the dots. Whenever four lines are drawn around an empty box the player to draw the last line puts an initial inside of the box. Thus, they _capture_ that box and score a point.
+Players take turns drawing lines between the dots. Whenever four lines are drawn around an empty box the player to draw the last line puts an initial inside the box. Thus, they _capture_ that box and score a point.
 
 ### 1.3. When does the game end?
 
@@ -60,11 +60,11 @@ You can only submit _one_ entry point file as your submission for the competitio
 
 ## :speaking_head: 3. Consulting External Sources
 
-Consult this section for regulations regarding the consultation of external sources outside of your brain.
+Consult this section for regulations regarding the consultation of external sources outside your brain.
 
 ### 3.1. Can I consult other people for the competition?
 
-Yes, but under limited conditions. You are _permitted_ to talk general ideas regarding strategies and code with people outside of your team. Those people however are _not allowed_ to dictate your strategy nor are they allowed to write your code in any form.
+Yes, but under limited conditions. You are _permitted_ to talk general ideas regarding strategies and code with people outside your team. Those people however are _not allowed_ to dictate your strategy nor are they allowed to write your code in any form.
 
 ### 3.2. Can I consult the internet (or reference material) for the competition?
 
@@ -76,23 +76,23 @@ Yes, but under limited conditions. You are permitted to talk general ideas regar
 
 ### 3.5. Can I consult the competition organizers for the competition?
 
-Yes, but this should be your last resort. Competition organizers, like yourself, are all students. They have _limited availability_ to help you. That being said, the touranment organizers _are permitted_ to help you with how to participate in the competition and how to use the competition software. They are _not allowed_ to talk strategies or write code with and for you.
+Yes, but this should be your last resort. Competition organizers, like yourself, are all students. They have _limited availability_ to help you. That being said, the competition organizers _are permitted_ to help you with how to participate in the competition and how to use the competition software. They are _not allowed_ to talk strategies or write code with and for you.
 
 ## :crossed_swords: 4. Competition Organization
 
-Consult this section learn about how the compeition works.
+Consult this section learn about how the competition works.
 
 ### 4.1. How is the competition ran?
 
-Every competitor will be put in a manifest file containing their team name and git repository URL. The git repositories will automatically cloned by the tournament bracket software. Competitors' AI players will compete against each other in a standard knockout-style tournament bracket.
+Every competitor will be put in a manifest file containing their team name and git repository URL. The git repositories will automatically be cloned by the tournament bracket software. Competitors' AI players will compete against each other in a standard knockout-style tournament bracket.
 
 ### 4.2. What happens if there are not enough competitors?
 
-Touranment brackets are typically made up of powers of 2 competitors. If there are not enough competitors, then the provided sample strategic player will fill up the remaining slots. Use the sample strategic player an initial goalpost on who to beat.
+Tournament brackets are typically made up of powers of 2 competitors. If there are not enough competitors, then the provided sample strategic player will fill up the remaining slots. Use the sample strategic player an initial goalpost on who to beat.
 
 ### 4.3. When are the practice brackets ran?
 
-Practice tournament brackets begin after the sign up timeframe ends. They will be automated and held every day, six times a day. The bracket ordering change between days. So as you make changes through out the day, check back to see if your AI player is doing better in the same bracket that day.
+Practice tournament brackets begin after the sign-up timeframe ends. They will be automated and held every day, six times a day. The bracket ordering change between days. So as you make changes throughout the day, check back to see if your AI player is doing better in the same bracket that day.
 
 ### 4.4. When will the final tournament bracket results be announced?
 
@@ -116,7 +116,7 @@ Yes, there will be three additional sudden death matches performed. The first pl
 
 ### 4.9. What happens if there is still a draw after sudden death?
 
-If no AI player scores wins three matches between the best-of-five matches and the sudden death matches, then a winner will be chosen at random.
+If no AI player wins three matches between the best-of-five matches and the sudden death matches, then a winner will be chosen at random.
 
 ### 4.10. Will I be able to see the results individual matches of a matchup?
 
