@@ -2,6 +2,42 @@
 
 Consult this FAQ for help regarding the rules and regulations of the competition.
 
+- [🚫 Rules and Regulations](#-rules-and-regulations)
+  - [:game\_die: 1. Game](#game_die-1-game)
+    - [1.1. What game are we scripting for?](#11-what-game-are-we-scripting-for)
+    - [1.2. How is it played?](#12-how-is-it-played)
+    - [1.3. When does the game end?](#13-when-does-the-game-end)
+    - [1.4. How is the winner determined?](#14-how-is-the-winner-determined)
+    - [1.5. Do players take another turn after a capture?](#15-do-players-take-another-turn-after-a-capture)
+    - [1.6. How is it determined who goes first?](#16-how-is-it-determined-who-goes-first)
+    - [1.7. What happens if I make an illegal move?](#17-what-happens-if-i-make-an-illegal-move)
+  - [:outbox\_tray: 2. Code Submission](#outbox_tray-2-code-submission)
+    - [2.1. How do I submit my code?](#21-how-do-i-submit-my-code)
+    - [2.2. Do I need to format my code in any way?](#22-do-i-need-to-format-my-code-in-any-way)
+    - [2.3. Do I need to document my code in any way?](#23-do-i-need-to-document-my-code-in-any-way)
+    - [2.4. Which files do I submit for my player?](#24-which-files-do-i-submit-for-my-player)
+    - [2.5. How many players can I submit for the competition?](#25-how-many-players-can-i-submit-for-the-competition)
+  - [:speaking\_head: 3. Consulting External Sources](#speaking_head-3-consulting-external-sources)
+    - [3.1. Can I consult other people for the competition?](#31-can-i-consult-other-people-for-the-competition)
+    - [3.2. Can I consult the internet (or reference material) for the competition?](#32-can-i-consult-the-internet-or-reference-material-for-the-competition)
+    - [3.4. Can I consult generative AI (like ChatGPT) for the competition?](#34-can-i-consult-generative-ai-like-chatgpt-for-the-competition)
+    - [3.5. Can I consult the competition organizers for the competition?](#35-can-i-consult-the-competition-organizers-for-the-competition)
+  - [:crossed\_swords: 4. Competition Organization](#crossed_swords-4-competition-organization)
+    - [4.1. How is the competition ran?](#41-how-is-the-competition-ran)
+    - [4.2. What happens if there are not enough competitors?](#42-what-happens-if-there-are-not-enough-competitors)
+    - [4.3. When are the practice brackets ran?](#43-when-are-the-practice-brackets-ran)
+    - [4.4. When will the final tournament bracket results be announced?](#44-when-will-the-final-tournament-bracket-results-be-announced)
+    - [4.5. How many matches are there in a given matchup?](#45-how-many-matches-are-there-in-a-given-matchup)
+    - [4.6. What happens if my player throws an error during a matchup?](#46-what-happens-if-my-player-throws-an-error-during-a-matchup)
+    - [4.7. How long can my player take to compute its move?](#47-how-long-can-my-player-take-to-compute-its-move)
+    - [4.8. What happens if a match ends up a draw?](#48-what-happens-if-a-match-ends-up-a-draw)
+    - [4.9. Is there sudden death if matchup ends up as a stalemate?](#49-is-there-sudden-death-if-matchup-ends-up-as-a-stalemate)
+    - [4.10. What happens if there is still a draw after sudden death?](#410-what-happens-if-there-is-still-a-draw-after-sudden-death)
+    - [4.11. Will I be able to see the results individual matches of a matchup?](#411-will-i-be-able-to-see-the-results-individual-matches-of-a-matchup)
+    - [4.12. Does the dimensions of the game board change at all?](#412-does-the-dimensions-of-the-game-board-change-at-all)
+    - [4.13. How are the winners of the competition determined?](#413-how-are-the-winners-of-the-competition-determined)
+    - [4.14. Are there prizes for the determined winners?](#414-are-there-prizes-for-the-determined-winners)
+
 ## :game_die: 1. Game
 
 Consult this section to learn about the game your AI player will be playing.
