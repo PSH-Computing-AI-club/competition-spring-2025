@@ -22,13 +22,15 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 - Briefing @ Club Meeting: OTHERday, YYth
 
-- Signup Timeframe: SOMEday, XXth - OTHERday, YYth
+- Sign-ups Start: SOMEday, XXth
 
-- Practice Tournament Brackets: SOMEday, XXth - OTHERday, YYth
+- Sign-ups End: OTHERday, YYth
 
-- Practice Brackets Shutoff: SOMEday, XXth
+- Practice Tournament Brackets Start: SOMEday, XXth
 
-- Final Tournament Bracket @ Club Meeting: OTHERday, YYth
+- Practice Tournament Brackets End: OTHERday, YYth
+
+- Final Tournament Bracket @ Club Meeting: SOMEday, XXth
 
 ## Practice Tournament Brackets
 
