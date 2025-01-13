@@ -106,34 +106,38 @@ Bracket matchups are based on the best-of-five matches. First player to three wi
 
 Your AI player will forfeit the that specific match.
 
-### 4.7. What happens if a match ends up a draw?
+### 4.7. How long can my player take to compute its move?
+
+Your AI player has a time budget of 1000 milliseconds (or 1 second). This restriction _might_ be subject to change in the future.
+
+### 4.8. What happens if a match ends up a draw?
 
 If a match ends up in a draw, then the matchup will continue onto the next of five matches.
 
-### 4.8. Is there sudden death if matchup ends up as a stalemate?
+### 4.9. Is there sudden death if matchup ends up as a stalemate?
 
 Yes, there will be three additional sudden death matches performed. The first player to win one of these matches takes the matchup.
 
-### 4.9. What happens if there is still a draw after sudden death?
+### 4.10. What happens if there is still a draw after sudden death?
 
 If no AI player wins three matches between the best-of-five matches and the sudden death matches, then a winner will be chosen at random.
 
-### 4.10. Will I be able to see the results individual matches of a matchup?
+### 4.11. Will I be able to see the results individual matches of a matchup?
 
 Due to time constraints, the competition software's tournament bracket landing page will not report individual match results.
 
 However, the raw JSON logs will be available for download upon request. Please contact a competition organizer for more information.
 
-### 4.11. Does the dimensions of the game board change at all?
+### 4.12. Does the dimensions of the game board change at all?
 
 Yes, the final round will be played on a _7 columns x 5 rows_ game board. The semi-final round will be on a _6x4_ game board. And every other round before those will be on a _5x3_ game board. Make sure your AI player's strategy is _flexible_ for the additional complexity of the bigger game boards.
 
-### 4.12. How are the winners of the competition determined?
+### 4.13. How are the winners of the competition determined?
 
 For first place, the winner is simply the competitor who won the final round of the bracket. Then, second place is the competitor who lost to the first place player in the semi-final round.
 
 The third-place player is determined by having the competitors who lost to the first and second place competitors in the round before the semi-final round compete in an additional bracket.
 
-### 4.13. Are there prizes for the determined winners?
+### 4.14. Are there prizes for the determined winners?
 
 Yes, prizes will be based on first, second, and third place placements. The prizes themselves will be announced at a later date.
