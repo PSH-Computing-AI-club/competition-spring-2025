@@ -36,7 +36,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 During the practice tournament brackets timeframe an automated system will pull in your code every day, six times a day. Your AI player will compete against every other competitor's AI player without input from you.
 
-When the practice brackets go live you will be able to find the published results at [`PSH-Computing-AI-club.github.io/competition-spring-2025-bracket`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-bracket).
+Find the live practice bracket results at [`PSH-Computing-AI-club.github.io/competition-spring-2025-bracket`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-bracket).
 
 ## Final Tournament Bracket
 
@@ -56,7 +56,7 @@ Looking for how to script your AI player? Go [here](./ai-player-scripting.md).
 
 Every competitor is supplied with a starter git repository containing three sample AI players to serve as a springboard for getting started.
 
-After the initial competition briefing an API reference will be available at [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes).
+Find the scripting environment API reference at [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes).
 
 ## Related Repositories
 
