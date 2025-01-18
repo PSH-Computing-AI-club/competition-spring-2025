@@ -1,7 +1,7 @@
 # Shamelessly stolen from Deno's stdlib repository:
 # https://github.com/denoland/std/blob/68289312421797e74fac37236cd7eaed1ab0502c/.github/workflows/ci.yml
 
-name: continuous-integration
+name: Continuous Integration
 
 on:
     push:
