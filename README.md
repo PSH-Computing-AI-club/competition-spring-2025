@@ -1,6 +1,6 @@
 # PSH Computing & AI Club — Spring '25 Blossoming Battlegrounds
 
-Ready to put your coding skills to the test? Join the Spring '25 Blossoming Battlegrounds and build an AI player to master Dots and Boxes! Compete against your peers in a tournament bracket, perfect new strategies, and level up your coding skills. No prior AI player development experience required – just a passion for coding!
+Ready to put your coding skills to the test? Join the Spring '25 Blossoming Battlegrounds and build an AI player to master Dots and Boxes! Compete against your peers in a tournament bracket, perfect new strategies, and level up your coding skills. No prior AI player development experience required — just a passion for coding!
 
 :technologist: Code an AI player for a Dots and Boxes game engine using JavaScript or TypeScript.
 
