@@ -102,6 +102,8 @@ Consult this section for regulations regarding the consultation of external sour
 
 Yes, but under limited conditions. You are _permitted_ to talk general ideas regarding strategies and code with people outside your team. Those people however are _not allowed_ to dictate your strategy nor are they allowed to write your code in any form.
 
+You can talk with other contestants and get technical support in the `#CHANNEL-NAME` on the club's Discord.
+
 ### 3.2. Can I consult the internet (or reference material) for the competition?
 
 Yes, but under limited conditions. You are _permitted_ to search the internet for JavaScript and TypeScript tutorials, API references, etc. You are _not allowed_ to copy code or look up game strategies.

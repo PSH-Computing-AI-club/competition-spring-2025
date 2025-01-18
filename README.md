@@ -58,6 +58,10 @@ Every competitor is supplied with a starter git repository containing three samp
 
 Find the scripting environment API reference at [`PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes`](https://PSH-Computing-AI-club.github.io/competition-spring-2025-dotsandboxes).
 
+## Technical Support
+
+Talk with other contestants and get technical support in the `#CHANNEL-NAME` on the club's Discord.
+
 ## Related Repositories
 
 - [`github.com/PSH-Computing-AI-club/competition-spring-2025-bracket`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-bracket)
