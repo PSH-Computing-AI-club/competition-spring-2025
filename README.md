@@ -64,7 +64,7 @@ Find the scripting environment API reference at [`PSH-Computing-AI-club.github.i
 
 ## Technical Support
 
-Talk with other contestants and get technical support in the `#CHANNEL-NAME` on the club's Discord.
+Talk with other contestants and get technical support in the `#CHANNEL-NAME` channel on the club's Discord.
 
 ## Related Repositories
 
