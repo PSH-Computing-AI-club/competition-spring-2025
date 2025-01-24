@@ -1,5 +1,11 @@
 # :seedling: git Repositories
 
+> [!NOTE]
+>
+> The PSH IEEE Club in collaboration with the PSH Computing and AI Club hosted a git workshop. The link below has the PowerPoint and supplemental material for your reading.
+> 
+> https://github.com/Blizzartnaut/GitHub-Tut
+
 Consult this FAQ for help with the basics of git.
 
 - [:seedling: git Repositories](#seedling-git-repositories)
