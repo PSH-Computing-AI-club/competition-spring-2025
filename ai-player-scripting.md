@@ -190,7 +190,7 @@ This will pit your AI player versus the supplied sample random player.
 
 ### 3.6. Do I need an internet connection to run the competition software?
 
-Yes, for the first run only. The competition software uses the [`denoland/deno_emit`](https://github.com/denoland/deno_emit) library is used to prepare your JavaScript and TypeScript code for running in the scripting runtime. It is a bundling and transpilation library made in [Rust](https://www.rust-lang.org) compiled to [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly). Unfortunately, the library does not ship with its WASM payload and downloads it on first one. Our apologies if this is inconvenient for you.
+Yes, for the first run only. The competition software uses the [`denoland/deno_emit`](https://github.com/denoland/deno_emit) library is used to prepare your JavaScript and TypeScript code for running in the scripting runtime. It is a bundling and transpilation library made in [Rust](https://www.rust-lang.org) compiled to [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly). Unfortunately, the library does not ship with its WASM payload and downloads it on first run. Our apologies if this is inconvenient for you.
 
 ### 3.7. How do I implement strategies?
 
