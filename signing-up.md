@@ -13,7 +13,7 @@ Consult this FAQ for help signing up for the competition.
 
 ## 1.1. How do I sign up for the competition?
 
-Visit the `#competition-signup` channel on the club's Discord and leave a message in the pinned format. You will need your name, school email, team name, GitHub account name, and your preference for JavaScript or TypeScript.
+Visit the `#competition-signup` channel on the club's Discord and leave a message in the pinned format. You will need your name, school email, bot name, GitHub account name, and your preference for JavaScript or TypeScript.
 
 ## 1.2. Do I have be enrolled as a student at Penn State Harrisburg?
 
