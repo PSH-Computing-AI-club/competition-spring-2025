@@ -18,23 +18,23 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :outbox_tray: Submissions are made via git repositories on GitHub.
 
-:pencil: SIGN UP in the `#CHANNEL-NAME` channel on the club's Discord!
+:pencil: SIGN UP in the `#competition-signup` channel on the club's Discord!
 
 :bust_in_silhouette: / :busts_in_silhouette: Pair up with a partner or go solo.
 
 ## Dates
 
-- Briefing @ Club Meeting: OTHERday, YYth
+- Briefing @ Club Meeting: **Monday, Jan 27th**
 
-- Sign-ups Start: SOMEday, XXth
+- Sign-ups Start: **Monday, Jan 27th**
 
-- Sign-ups End: OTHERday, YYth
+- Sign-ups End: **Saturday, Feb 1st**
 
-- Practice Tournament Brackets Start: SOMEday, XXth
+- Practice Tournament Brackets Start: **Sunday, Feb 2nd**
 
-- Practice Tournament Brackets End: OTHERday, YYth
+- Practice Tournament Brackets End: **Saturday, Feb 15th**
 
-- Final Tournament Bracket @ Club Meeting: SOMEday, XXth
+- Final Tournament Bracket @ Club Meeting: **Monday, Feb 17th**
 
 ## Practice Tournament Brackets
 
@@ -64,7 +64,7 @@ Find the scripting environment API reference at [`PSH-Computing-AI-club.github.i
 
 ## Technical Support
 
-Talk with other contestants and get technical support in the `#CHANNEL-NAME` channel on the club's Discord.
+Talk with other contestants and get technical support in the `#competition-support` channel on the club's Discord.
 
 ## Related Repositories
 
