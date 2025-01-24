@@ -1,5 +1,7 @@
 # :seedling: git Repositories
 
+Consult this FAQ for help with the basics of git.
+
 - [:seedling: git Repositories](#seedling-git-repositories)
   - [1.1. Do I have to make my own git repository on GitHub?](#11-do-i-have-to-make-my-own-git-repository-on-github)
   - [1.2. Why can't I make my own repository?](#12-why-cant-i-make-my-own-repository)
