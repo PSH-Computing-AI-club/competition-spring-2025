@@ -176,9 +176,11 @@ Yes! If the logic you wrote for your compute function cannot find a valid move, 
 
 ### 3.5. How do I run and test my player?
 
-> **NOTE:** Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
+> [!NOTE]
+> Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
 
-> **NOTE:** Swap the `.js` file extension for `.ts` if using TypeScript instead.
+> [!NOTE]
+> Swap the `.js` file extension for `.ts` if using TypeScript instead.
 
 Run the competition software with `./dotsandboxes-linux simulate ./mod.js ./random_player.js` in a terminal with its directory set to your workspace's root directory.
 
@@ -196,7 +198,8 @@ That is entirely up to you. The competition software's runtime provides a pletho
 
 ### 3.8. Each run of the competition software is random. How can I prevent this?
 
-> **NOTE:** Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
+> [!NOTE]
+> Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
 
 By default, the competition software uses the amount of milliseconds since the [UNIX Epoch](https://en.wikipedia.org/wiki/Unix_time) as the seed for randomness. If you want to reuse an earlier seed or your own custom one, then supply the `--seed` option like so: `./dotsandboxes-linux simulate --seed {SEED} ...players...`.
 
