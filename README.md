@@ -1,5 +1,7 @@
 <div align="center">
 
+![logo](./.assets/logo.webp)
+
 # PSH Computing & AI Club<br />Spring '25 Blossoming Battlegrounds
 
 </div>
