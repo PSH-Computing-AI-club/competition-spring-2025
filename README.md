@@ -56,6 +56,10 @@ Looking for the basics on git? Go [here](./git-repositories.md).
 
 Looking for how to script your AI player? Go [here](./ai-player-scripting.md).
 
+## Briefing Presentation
+
+Looking for the club meeting briefing presentation material that was given on Monday, Jan 27th? Go [here](./Compeition%20Club%20Meeting%20Briefing.pdf).
+
 ## Documentation
 
 Every competitor is supplied with a starter git repository containing three sample AI players to serve as a springboard for getting started.
