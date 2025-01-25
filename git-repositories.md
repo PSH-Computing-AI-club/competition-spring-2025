@@ -4,7 +4,7 @@
 >
 > The PSH IEEE Club in collaboration with the PSH Computing and AI Club hosted a git workshop. The link below has the PowerPoint and supplemental material for your reading.
 >
-> https://github.com/Blizzartnaut/GitHub-Tut
+> https://github.com/TheIcyStar/GitHub-Tut/blob/main/Git-and-GitHub-Basics-slides.pdf
 
 Consult this FAQ for help with the basics of git.
 
