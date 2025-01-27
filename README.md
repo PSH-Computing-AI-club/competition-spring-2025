@@ -60,7 +60,7 @@ Looking for how to script your AI player? Go [here](./ai-player-scripting.md).
 
 ## Briefing Presentation
 
-Looking for the club meeting briefing presentation material that was given on Monday, Jan 27th? Go [here](./Compeition%20Club%20Meeting%20Briefing.pdf).
+Looking for the club meeting briefing presentation material that was given on Monday, Jan 27th? Go [here](./Competition%20Club%20Meeting%20Briefing.pdf).
 
 ## Documentation
 
