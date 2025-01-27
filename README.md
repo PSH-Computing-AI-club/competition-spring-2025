@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](./.assets/logo.webp)
+![logo](./.assets/Blossoming%20Battlegrounds.Splash.Text.webp)
 
 # PSH Computing & AI Club<br />Spring '25 Blossoming Battlegrounds
 
