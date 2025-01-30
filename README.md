@@ -44,12 +44,12 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 - Final Tournament Bracket @ Club Meeting: **Monday, Feb 17th**
 
-## Competition Organizers
+## Club Contacts
 
-|   | Name                   | :email: E-Mail  | ![discord](./.assets/social.discord.svg) Discord   | Roles                             |
+|   | :wave: Name            | :email: E-Mail  | ![discord](./.assets/social.discord.svg) Discord   | :clipboard: Roles                 |
 | - | ---------------------- | --------------- | -------------------------------------------------- | --------------------------------- |
 |   | Joseph Daniel Cooper   | jdc6281@psu.edu | ![@qhwelah](./.assets/social.discord.@qhwelah.svg) | Club President, Club Affairs      |
-|   | Dimitri Orion Nearchos | don5092@psu.edu | ![@oridim](./.assets/social.discord.@oridim.svg)   | Club Member, Developer, Organizer |
+|   | Dimitri Orion Nearchos | don5092@psu.edu | ![@oridim](./.assets/social.discord.@oridim.svg)   | Organizer, Developer, Club Member |
 
 ## Practice Tournament Brackets
 
