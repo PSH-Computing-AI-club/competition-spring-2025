@@ -34,9 +34,9 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 - Briefing @ Club Meeting: **Monday, Jan 27th**
 
-- Sign-ups Start: **Monday, Jan 27th**
+- Initial Sign-ups Start: **Monday, Jan 27th**
 
-- Sign-ups End: **Saturday, Feb 1st**
+- Initial Sign-ups End: **Saturday, Feb 1st**
 
 - Practice Tournament Brackets Start: **Sunday, Feb 2nd**
 
