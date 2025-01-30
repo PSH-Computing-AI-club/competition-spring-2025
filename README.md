@@ -4,6 +4,12 @@
 
 # PSH Computing & AI Club<br />Spring '25 Blossoming Battlegrounds
 
+<a href="https://discord.gg/WjMNyS46eD" target="_blank" rel="noopener noreferrer">
+
+![discord channel](https://dcbadge.limes.pink/api/server/https://discord.gg/WjMNyS46eD)
+
+</a>
+
 </div>
 
 Ready to put your coding skills to the test? Join the Spring '25 Blossoming Battlegrounds and build an AI player to master Dots and Boxes! Compete against your peers in a tournament bracket, perfect new strategies, and level up your coding skills. No prior AI player development experience required — just a passion for coding!
@@ -37,6 +43,13 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 - Practice Tournament Brackets End: **Saturday, Feb 15th**
 
 - Final Tournament Bracket @ Club Meeting: **Monday, Feb 17th**
+
+## Competition Organizers
+
+|   | Name                   | :email: E-Mail  | ![discord](./.assets/social.discord.svg) Discord   | Roles                             |
+| - | ---------------------- | --------------- | -------------------------------------------------- | --------------------------------- |
+|   | Joseph Daniel Cooper   | jdc6281@psu.edu | ![@qhwelah](./.assets/social.discord.@qhwelah.svg) | Club President, Club Affairs      |
+|   | Dimitri Orion Nearchos | don5092@psu.edu | ![@oridim](./.assets/social.discord.@oridim.svg)   | Club Member, Developer, Organizer |
 
 ## Practice Tournament Brackets
 
