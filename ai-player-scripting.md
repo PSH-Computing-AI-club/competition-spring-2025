@@ -162,11 +162,11 @@ https://github.com/user-attachments/assets/bd6d8ec4-3edb-48df-8d50-edfee346509e
 
 Then open the `mod.js` (or `mod.ts`, if using TypeScript) file. This is your AI player.
 
-> **TODO:** VS Code with file open.
+![The `mod.js` entry point open in VS Code.](./.assets/demo.vscode.entry-point.jpg)
 
 As you can see, there is an [arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) (similar to [lambda expressions](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions) in Python) being [exported as the default](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) export. This is your compute function.
 
-> **TODO:** VS Code highlight function.
+![The compute function highlighted in VS Code.](./.assets/demo.vscode.compute-function.jpg)
 
 You program the AI logic of your player here.
 
