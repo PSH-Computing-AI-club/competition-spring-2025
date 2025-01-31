@@ -174,7 +174,7 @@ You program the AI logic of your player here.
 
 Simply return an [`object`](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics) with `.x` and `.y` coordinate fields.
 
-> **TODO:** VS Code programming a simple object.
+https://github.com/user-attachments/assets/cb9adbc1-2754-4128-bd5a-95948945492e
 
 ### 3.3. How do I forfeit a game session?
 
@@ -196,7 +196,7 @@ Run the competition software with `./dotsandboxes-linux simulate ./mod.js ./rand
 
 This will pit your AI player versus the supplied sample random player.
 
-> **TODO:** Video of this.
+https://github.com/user-attachments/assets/9f847979-3239-4c7b-a713-09cc227cf092
 
 ### 3.6. Do I need an internet connection to run the competition software?
 
