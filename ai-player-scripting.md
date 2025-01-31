@@ -148,7 +148,17 @@ Consult this section for programming your player.
 
 After cloning your supplied git repository, open the root workspace directory in your preferred editor.
 
-> **TODO:** Picture of VS Code opened.
+![Opening VS Code by the "Open Folder" menu options.](./.assets/demo.vscode.open-via-open-folder.webm)
+
+<center>Opening VS Code by the "Open Folder" menu options.</center>
+
+![Opening VS Code by your file explorer.](./.assets/demo.vscode.open-via-file-explorer.webm)
+
+<center>Opening VS Code by your file explorer.</center>
+
+![Opening VS Code by using the change directory command.](./.assets/demo.vscode.open-via-directory-change.webm)
+
+<center>Opening VS Code by using the change directory command.</center>
 
 Then open the `mod.js` (or `mod.ts`, if using TypeScript) file. This is your AI player.
 
