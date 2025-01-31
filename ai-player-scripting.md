@@ -219,6 +219,9 @@ It is very **IMPORTANT** to understand that you _will not_ control the seed duri
 
 ### 3.9. Can I change the grid size of the game board?
 
+> [!NOTE]
+> Swap `./dotsandboxes-linux` for `./dotsandboxes-macos` or `./dotsandboxes-windows.exe` if you are using either of those operating systems instead.
+
 By default, the competition software uses 5 columns and 3 rows as the grid size. If you want to change this, then simply supply the `--grid-columns` and `--grid-rows` options respectively like so: `./dotsandboxes-linux simulate --grid-columns {COLUMNS} --grid-rows {ROWS} ...players...`.
 
 https://github.com/user-attachments/assets/e631b990-e33a-4c4f-9089-befcb3ff0f19
