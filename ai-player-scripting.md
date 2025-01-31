@@ -148,15 +148,15 @@ Consult this section for programming your player.
 
 After cloning your supplied git repository, open the root workspace directory in your preferred editor.
 
-![Opening VS Code by the "Open Folder" menu options.](./.assets/demo.vscode.open-via-open-folder.webm)
+https://github.com/user-attachments/assets/eff1605f-6705-48b9-bbbc-60717a5f93a1
 
 <center>Opening VS Code by the "Open Folder" menu options.</center>
 
-![Opening VS Code by your file explorer.](./.assets/demo.vscode.open-via-file-explorer.webm)
+https://github.com/user-attachments/assets/889a26d3-17a9-4e95-8273-4f3e68cbd079
 
 <center>Opening VS Code by your file explorer.</center>
 
-![Opening VS Code by using the change directory command.](./.assets/demo.vscode.open-via-directory-change.webm)
+https://github.com/user-attachments/assets/bd6d8ec4-3edb-48df-8d50-edfee346509e
 
 <center>Opening VS Code by using the change directory command.</center>
 
