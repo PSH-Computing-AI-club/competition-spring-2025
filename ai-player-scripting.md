@@ -213,7 +213,7 @@ That is entirely up to you. The competition software's runtime provides a pletho
 
 By default, the competition software uses the amount of milliseconds since the [UNIX Epoch](https://en.wikipedia.org/wiki/Unix_time) as the seed for randomness. If you want to reuse an earlier seed or your own custom one, then supply the `--seed` option like so: `./dotsandboxes-linux simulate --seed {SEED} ...players...`.
 
-> **TODO:**: Video of this.
+https://github.com/user-attachments/assets/648b6a41-3f5a-46d5-bcec-4c3d8b94faea
 
 It is very **IMPORTANT** to understand that you _will not_ control the seed during the practice nor final tournament brackets.
 
@@ -221,7 +221,7 @@ It is very **IMPORTANT** to understand that you _will not_ control the seed duri
 
 By default, the competition software uses 5 columns and 3 rows as the grid size. If you want to change this, then simply supply the `--grid-columns` and `--grid-rows` options respectively like so: `./dotsandboxes-linux simulate --grid-columns {COLUMNS} --grid-rows {ROWS} ...players...`.
 
-> **TODO:**: Video of this.
+https://github.com/user-attachments/assets/e631b990-e33a-4c4f-9089-befcb3ff0f19
 
 It is very **IMPORTANT** to understand that you _will not_ control the grid size during the practice nor final tournament brackets.
 
