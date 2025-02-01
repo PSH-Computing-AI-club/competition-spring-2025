@@ -24,7 +24,7 @@ Consult this FAQ for help regarding the rules and regulations of the competition
     - [3.5. Can I consult the competition organizers for the competition?](#35-can-i-consult-the-competition-organizers-for-the-competition)
   - [:crossed\_swords: 4. Competition Organization](#crossed_swords-4-competition-organization)
     - [4.1. How is the competition ran?](#41-how-is-the-competition-ran)
-    - [4.2. What happens if there are not enough competitors?](#42-what-happens-if-there-are-not-enough-competitors)
+    - [4.2. What happens if there are not enough competitors for a full bracket?](#42-what-happens-if-there-are-not-enough-competitors-for-a-full-bracket)
     - [4.3. When are the practice brackets ran?](#43-when-are-the-practice-brackets-ran)
     - [4.4. When will the final tournament bracket results be announced?](#44-when-will-the-final-tournament-bracket-results-be-announced)
     - [4.5. How many matches are there in a given matchup?](#45-how-many-matches-are-there-in-a-given-matchup)
@@ -124,9 +124,15 @@ Consult this section learn about how the competition works.
 
 Every competitor will be put in a manifest file containing their team name and git repository URL. The git repositories will automatically be cloned by the tournament bracket software. Competitors' AI players will compete against each other in a standard knockout-style tournament bracket.
 
-### 4.2. What happens if there are not enough competitors?
+### 4.2. What happens if there are not enough competitors for a full bracket?
 
-Tournament brackets are typically made up of powers of 2 competitors. If there are not enough competitors, then the provided sample strategic player will fill up the remaining slots. Use the sample strategic player an initial goalpost on who to beat.
+Tournament brackets are typically made up of powers of 2 competitors. If there are not enough competitors, then the provided sample "Split Personality" AI player will fill up the remaining slots. Use the sample "Split Personality" AI player as an initial goalpost on who to beat.
+
+- [`split_personality.js`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-javascript/blob/main/split_personality_player.js)
+- [`split_personality.ts`](https://github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandboxes-template-typescript/blob/main/split_personality_player.ts)
+
+> [!NOTE]
+> The placeholder AI player might be subject to change during the practice brackets depending on average skill level of the competitors.
 
 ### 4.3. When are the practice brackets ran?
 
@@ -146,7 +152,10 @@ Your AI player will forfeit the that specific match.
 
 ### 4.7. How long can my player take to compute its move?
 
-Your AI player has a time budget of 1000 milliseconds (or 1 second). This restriction _might_ be subject to change in the future.
+Your AI player has a time budget of 1000 milliseconds (or 1 second).
+
+> [!NOTE]
+> This restriction _might_ be subject to change in the future.
 
 ### 4.8. What happens if a match ends up a draw?
 
