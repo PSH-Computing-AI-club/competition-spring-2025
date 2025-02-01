@@ -13,6 +13,7 @@ Consult this FAQ for help with scripting your player and setting up your program
     - [1.7. What text editors should I avoid, if any?](#17-what-text-editors-should-i-avoid-if-any)
     - [1.8. What operating systems are supported by the competition software's runtime?](#18-what-operating-systems-are-supported-by-the-competition-softwares-runtime)
     - [1.9. How do I download the competition software's runtime?](#19-how-do-i-download-the-competition-softwares-runtime)
+    - [1.10. I do not have permission to execute the competition software. Why?](#110-i-do-not-have-permission-to-execute-the-competition-software-why)
   - [2. :books: Documentation](#2-books-documentation)
     - [2.1. What resources are there for JavaScript?](#21-what-resources-are-there-for-javascript)
     - [2.2. What resources are there for TypeScript?](#22-what-resources-are-there-for-typescript)
@@ -118,7 +119,16 @@ Head over to [github.com/PSH-Computing-AI-club/competition-spring-2025-dotsandbo
 
 Download the binary to the root of your workspace.
 
-> **TODO:** Video of doing just that and bypassing Microsoft Edge's filters.
+> [!IMPORTANT]
+> Your browser might try to block the download due to low distribution. Please bypass its download filter as seen below.
+
+https://github.com/user-attachments/assets/cd7ef868-a991-4a2f-ba26-b6384218321a
+
+### 1.10. I do not have permission to execute the competition software. Why?
+
+If you are running a Linux or macOS machine you might need to give the competition software executable permissions.
+
+https://github.com/user-attachments/assets/1c66d895-23b7-4d7c-9ab9-8f6a59fe493d
 
 ## 2. :books: Documentation
 
