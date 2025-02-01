@@ -252,7 +252,7 @@ It is recommended to use an IDE or a separate analysis tool to help find syntax 
 
 Anytime your player has a runtime error due to logic or reference bugs a full stack trace will be printed to console.
 
-**TODO:** Show a video of this.
+https://github.com/user-attachments/assets/32d1c027-0da8-4679-a80b-16131a3c4043
 
 ### 3.13. Will I be given error logs when the competition software runs my code?
 
