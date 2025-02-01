@@ -73,7 +73,7 @@ Make sure that the supplied `jsconfig.json` (or `tsconfig.json`, if using TypeSc
 
 These files tell your IDE what types, globals, and language support is available in the runtime.
 
-> **TODO:** Pictures here showing a JavaScript and TypeScript root directory.
+![VSCode showing `jsconfig.js` and `lib.dotsandboxes.d.ts` open.](./.assets/demo.vscode.ide-configuration.jpg)
 
 ### 1.6. Do I have to use an IDE?
 
