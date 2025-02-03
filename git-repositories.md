@@ -15,7 +15,7 @@ Consult this FAQ for help with the basics of git.
   - [1.4. Will my git repository be public?](#14-will-my-git-repository-be-public)
   - [1.5. What git client should I use?](#15-what-git-client-should-i-use)
   - [1.6. How do I clone my git repository?](#16-how-do-i-clone-my-git-repository)
-  - [1.7. How do I make changes to my git repository?](#17-how-do-i-make-changes-to-my-git-repository)
+  - [1.7. How do I commit changes to my git repository?](#17-how-do-i-commit-changes-to-my-git-repository)
   - [1.8. How can I tell if there will be merge conflicts?](#18-how-can-i-tell-if-there-will-be-merge-conflicts)
   - [1.9. How can I resolve merge conflicts?](#19-how-can-i-resolve-merge-conflicts)
 
@@ -59,7 +59,7 @@ Sample Graphical Clients:
 
 > Check out the git workshop at the top of this FAQs for now.
 
-## 1.7. How do I make changes to my git repository?
+## 1.7. How do I commit changes to my git repository?
 
 > **TODO**: fill in
 
