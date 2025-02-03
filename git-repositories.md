@@ -16,8 +16,9 @@ Consult this FAQ for help with the basics of git.
   - [1.5. What git client should I use?](#15-what-git-client-should-i-use)
   - [1.6. How do I clone my git repository?](#16-how-do-i-clone-my-git-repository)
   - [1.7. How do I commit changes to my git repository?](#17-how-do-i-commit-changes-to-my-git-repository)
-  - [1.8. How can I tell if there will be merge conflicts?](#18-how-can-i-tell-if-there-will-be-merge-conflicts)
-  - [1.9. How can I resolve merge conflicts?](#19-how-can-i-resolve-merge-conflicts)
+  - [1.8. How do I push changes to the online version of my git repository?](#18-how-do-i-push-changes-to-the-online-version-of-my-git-repository)
+  - [1.9. How can I tell if there will be merge conflicts?](#19-how-can-i-tell-if-there-will-be-merge-conflicts)
+  - [1.10. How can I resolve merge conflicts?](#110-how-can-i-resolve-merge-conflicts)
 
 ## 1.1. Do I have to make my own git repository on GitHub?
 
@@ -65,13 +66,19 @@ Sample Graphical Clients:
 
 > Check out the git workshop at the top of this FAQs for now.
 
-## 1.8. How can I tell if there will be merge conflicts?
+## 1.8. How do I push changes to the online version of my git repository?
 
 > **TODO**: fill in
 
 > Check out the git workshop at the top of this FAQs for now.
 
-## 1.9. How can I resolve merge conflicts?
+## 1.9. How can I tell if there will be merge conflicts?
+
+> **TODO**: fill in
+
+> Check out the git workshop at the top of this FAQs for now.
+
+## 1.10. How can I resolve merge conflicts?
 
 > **TODO**: fill in
 
