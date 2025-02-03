@@ -55,16 +55,24 @@ Sample Graphical Clients:
 
 ## 1.6. How do I clone my git repository?
 
-...
+> **TODO**: fill in
+
+> Check out the git workshop at the top of this FAQs for now.
 
 ## 1.7. How do I make changes to my git repository?
 
-...
+> **TODO**: fill in
+
+> Check out the git workshop at the top of this FAQs for now.
 
 ## 1.8. How can I tell if there will be merge conflicts?
 
-...
+> **TODO**: fill in
+
+> Check out the git workshop at the top of this FAQs for now.
 
 ## 1.9. How can I resolve merge conflicts?
 
-...
+> **TODO**: fill in
+
+> Check out the git workshop at the top of this FAQs for now.
