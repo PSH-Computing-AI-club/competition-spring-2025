@@ -40,9 +40,9 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 - Practice Tournament Brackets Start: **Sunday, Feb 2nd**
 
-- Practice Tournament Brackets End: **Saturday, Feb 15th**
+- Practice Tournament Brackets End: **Saturday, Feb 22nd**
 
-- Final Tournament Bracket @ Club Meeting: **Monday, Feb 17th**
+- Final Tournament Bracket @ Club Meeting: **Monday, Feb 24th**
 
 ## Announcements
 
