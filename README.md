@@ -48,7 +48,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 - **[02/05/2025]** — Sign-ups are now allowed by E-Mail to facilitate non-Discord users.
 - **[02/02/2025]** — Practice brackets are now open!
-- **[01/30/2025]** — Sign-ups are now open to people outside the campus, provided they have been invited by faculty or club leadership.
+- **[01/30/2025]** — Sign-ups are now open to people outside the campus. Provided they have been invited by faculty or club leadership.
 
 ## Club Contacts
 
