@@ -26,7 +26,7 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 
 :outbox_tray: Submissions are made via git repositories on GitHub.
 
-:pencil: SIGN UP in the `#competition-signup` channel on the club's Discord!
+:pencil: SIGN UP in the `#competition-signup` channel on the club's Discord or by email!
 
 :bust_in_silhouette: / :busts_in_silhouette: Pair up with a partner or go solo.
 
@@ -43,6 +43,12 @@ Ready to put your coding skills to the test? Join the Spring '25 Blossoming Batt
 - Practice Tournament Brackets End: **Saturday, Feb 15th**
 
 - Final Tournament Bracket @ Club Meeting: **Monday, Feb 17th**
+
+## Announcements
+
+- **[02/05/2025]** — Sign-ups are now allowed by E-Mail to facilitate non-Discord users.
+- **[02/02/2025]** — Practice brackets are now open!
+- **[01/30/2025]** — Sign-ups are now open to people outside the campus, provided they have been invited by faculty or club leadership.
 
 ## Club Contacts
 
